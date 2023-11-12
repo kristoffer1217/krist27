@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Lawson",
+  "age": 32,
+  "address": {
+    "street": "Usin Heights",
+    "city": "Nafocorol",
+    "state": "AR",
+    "zip": "55420"
+  },
+  "contact": {
+    "phone": "(738) 370-3106",
+    "servicePhone": "800345291"
+  },
+  "birthday": "1986-01-11T23:03:01.492Z",
+  "ip": "82.147.121.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Vu si kibwuwkum ite uw rem ankugbud ciztuk tu zodlabak ih ej. Ona wuzcufdet kuthem om zid gal fig hoepa honale na bomer gipeled pulnomu tejehkic makhigon lezzov utiki. Nev funte vekejhi feam nojjuoki di ememeki cipohji vup ehcew keguije mo idrum zoohpo.",
+    "bio": "Aputi ri tonov caw hehgaj rit evigifeju raad dirmaup dosrigut udug ancep ona haitaf kite di diwhoh je. Olrimod lenas efasire ri kilanniv le fu veulco hajum kum owne gog zogeomi. Rik ufifoz jusvele aj tev pan rereg lagha mew digudawe hadkuze eto apugeudi rihebniv sofe pi jimi colat."
+  },
+  "apiKey": "4f19bd69fa03d70245adb06b75c8a9b99531194060958bf3bbd0110b7fce3a12",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
