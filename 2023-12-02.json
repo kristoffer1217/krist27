@@ -1,0 +1,26 @@
+{
+  "name": "Earl Cruz",
+  "age": 25,
+  "address": {
+    "street": "Zovit Ridge",
+    "city": "Esuguka",
+    "state": "VT",
+    "zip": "85165"
+  },
+  "contact": {
+    "phone": "(501) 373-3112",
+    "servicePhone": "800655415"
+  },
+  "birthday": "1993-09-21T00:45:59.785Z",
+  "ip": "163.11.171.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Agdezaf ve majoca wu osoaba fearkal leovvun bav moivel co mohse fu. Utuipesus dupos roizeva ejodisho rirjocwur ujesafu so ozrobse izve femvegof teharja gu fidfiv nordivet novjo. Runbi dag okseku os pejel eko kagot wo ju ofwossa owa zive og takvom cu. Madu mauli rindijwof ezeitzen objufleh gaar tihuh nutij hejtabni hizhazaz voluh sec.",
+    "bio": "Da gekkiwid liwamjeh li oshi jizuk kotwagvil mignec fuva logog otzumul lesop. Nuzwioma ve kedutukig zi ped napdo za fodiej upbut sapagla gadi buuzi jaudwik mizar muiva vamupa naugib kisaji. Mokig tidwam ubi facupuebu ulcur gigtel tacsi zosab zo zuraz fe everucgu hil."
+  },
+  "apiKey": "696345e84625f9a17aa8a012753f1c31212f19a97cc8c3bf9a054ed441a0e244",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
