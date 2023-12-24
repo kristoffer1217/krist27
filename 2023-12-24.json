@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Walters",
+  "age": 28,
+  "address": {
+    "street": "Toce Extension",
+    "city": "Bomilmoh",
+    "state": "FL",
+    "zip": "07826"
+  },
+  "contact": {
+    "phone": "(517) 781-7497",
+    "servicePhone": "800327438"
+  },
+  "birthday": "1969-06-20T12:40:44.835Z",
+  "ip": "238.224.159.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Talu oc kacaj fah repkol usu luclosaca wacuibo supmu der le utzonu tel idanom. Gelud kiossuh ewnuz wed si relpuc ugi pujla pubifo borikitet uvjik rifjonzo in nevrig. We an awoonofi von bogu aj cibjebud wahbuire pajo ufe mohwagop ta ogoicapet umahukir di bekhoem wo. Wev vugomol haaso temtoksa ag ka riefo ne gufreb tokum wa necbuc ecu wobula gip gajalga nusuno.",
+    "bio": "Ezitu nej oz givalo fa ozbolah harsam unuteuve eca mabosic cijdal riumojil kavenu. Guvzok marla nocsujo ipicu ovaco ri imcuri wi de tin wiek wudcazfuf bip ni cejev. Ado wehec hocnar huzel ti pubwavniz buz pomac sikvag mida om biz kumdah ejifona. Buuc woba simfoir bevwolwug izesepo jusha pir lutovuv kowtuhre ut evle pukmuno. Ma fehzobu rec bisuwla boczuv zowniwu nocika kah respik jibediro fud veiw cobonze ke tel wukmo nat fa. Cav bifafos dih ahazave gete zunzuw ju mi suifwo romuz ruf maukuti adifebav towaer."
+  },
+  "apiKey": "c60894c79bd3e9a1052c53fe164a6ebf6f02b63b4406e8f60a0cac763814258d",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
