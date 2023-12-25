@@ -1,0 +1,26 @@
+{
+  "name": "Jay Clark",
+  "age": 32,
+  "address": {
+    "street": "Zukuf Manor",
+    "city": "Takiaci",
+    "state": "DE",
+    "zip": "34189"
+  },
+  "contact": {
+    "phone": "(520) 567-2722",
+    "servicePhone": "800657588"
+  },
+  "birthday": "1961-04-10T02:54:06.718Z",
+  "ip": "191.93.10.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Wa piubu jopobho anezu za kauwa ki medino siji sev for jum zoga. Ud guhintuz wavjolo dajiras tegterin wajaj ilo kicfohnan pidit lej evsa waijvi catugovij. Ba ina gatli epkovci ji judo uniac colutbe deipsu zob nim fan fo tuhu ki cesas.",
+    "bio": "Bajesa behjilo nokubawi zakhofod ben lenlu olu otaib ifurejod tote miz jesahow izdaggus. Liki ul nu riope kuhic gibkuf dujeto awinu ricse loho piuse kij cikano sujarvo. Rese dab omaveclu cur sac toifrek wisivuz manrir loufe uziudu iw jov sined ilakogkam ravdi. Ve rim hisoje bosuk nov sapeseh tugujcub zu lo mo utevi wuppiro ol pitwapimo wiv. Ahi vovcazoto mategfop rotubtih ile hiw agroziz bag funi fiz ip gatgica sunve ho kij koisbi letwum. Mujhuis zo atpo ovukaef anu men uwiowedin tad ododapeb idefsu ira sefad. Le puz ubto sek ja muuf zu mobohu ipewab tungen safad wipof homo so wajbu om dedikson."
+  },
+  "apiKey": "d95a3cb4663d479b9eed9cfb8a98844a8566b63af170e3899d880931683b7ca9",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
