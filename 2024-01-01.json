@@ -1,0 +1,26 @@
+{
+  "name": "Peter Phelps",
+  "age": 30,
+  "address": {
+    "street": "Guzhu Loop",
+    "city": "Ajladvu",
+    "state": "UT",
+    "zip": "41362"
+  },
+  "contact": {
+    "phone": "(874) 679-7737",
+    "servicePhone": "800168454"
+  },
+  "birthday": "1992-11-15T16:42:21.973Z",
+  "ip": "139.128.242.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi sardopmen vu ihwumjo rapusbuh pemusas ne jusinven biwju teif cijdignov nurbofo ji zipeade. Gawusnez wo nen ofu wiwperrit zihiuf cued daage fi mam ojze okukici iwibacfaz hag kolfonba kodevumoz mutav kaip. Iw zen kaj helzucar iveci de nabwopob medeg tatihboj edigu gihbu ubehukato foro defihko za ceduuvi rimaigo.",
+    "bio": "Une hagucoho domvi ri vawgetop re jijfesib zuppav owivum fef jid cokew unu. Keh cupheh ucavun et gifeffeg fohlop niebpag cazrot havemat te samiru fazfohgow ur. Uc hokobah ciwuk imviwzim ozosa tajuk huame vibu oguja pufofojed fiochi vut ov. Ca mi ruip pol kaduv metardum iklu wuptazpi bego wik kuih bacedo vin ge wojme sig kusimta figli. Su okven kageh jeplujgen bu ap guswum hoasedos kawem dehak hap haho awaiju giecudih. Ihlomus lum maza de ajibvo gugcocen gazladok jizbu wezeguj kultidhis jocojep fauma iful nul oj pelpesji ju zukut."
+  },
+  "apiKey": "332b60cfa6d1598d53a03cec479363d6e73538e8acab14106624a330cc00d15c",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
