@@ -1,0 +1,26 @@
+{
+  "name": "Chris Zimmerman",
+  "age": 45,
+  "address": {
+    "street": "Teli Grove",
+    "city": "Dacubobo",
+    "state": "MI",
+    "zip": "59981"
+  },
+  "contact": {
+    "phone": "(989) 897-8042",
+    "servicePhone": "800185294"
+  },
+  "birthday": "1963-10-15T05:09:46.937Z",
+  "ip": "72.255.185.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Gitafi eloig cuszod ked pur sid hi ge wawme gubu elju gu. Rewbula popab sudelge inriak huszeh deujgu visfebju dumof en nudozi vo nifoh zob igoswi dosno seibo colezugi siwesgi. Gowfumuk obamiico lil ki iva izi bej cagej ep vodluora araga ukdo cu. Ve kuzvunki cifi jaltapri ziccabsal vivdaznuj suce dita kum noija on felenede ekso gep.",
+    "bio": "Boje roor catejbu ef gamopfa digwirro ulpo tujdadpeb ficak ji fojul ni nuri jeowiij ahdu irgebe nesnecsa. Micip lodutet kocu bivic ifcevfoc jiug of rojzu aji fobij lonsotnen tigabo zife wesirjo liuwhef seewi tuhjutre. To gaw sujzi teslugti nuunba gahotkeh ta bemhonmi luaboej paesiek has zof osano ipe nudibo wejevem ozo."
+  },
+  "apiKey": "5c35a3bfaf1b092c2e01b2aa6c2294f6e0760b94b671937097b2e24b9de46fec",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
