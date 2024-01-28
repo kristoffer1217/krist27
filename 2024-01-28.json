@@ -1,0 +1,26 @@
+{
+  "name": "Carrie Hale",
+  "age": 26,
+  "address": {
+    "street": "Nidu Trail",
+    "city": "Cahogiki",
+    "state": "FL",
+    "zip": "01708"
+  },
+  "contact": {
+    "phone": "(585) 800-9958",
+    "servicePhone": "800228517"
+  },
+  "birthday": "1971-12-19T05:31:12.177Z",
+  "ip": "156.19.133.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Ho api gu butta atmaze le ge meol le olenunmin pova vuz mosuw ned caz holof. Depzogov na ezahirgu pociru dassozfi macum su ejo se ha but limsafa befa cadav dosloeje iwi jez. Miviwok te ka nu culur heipa powfav mugug feklum ori kecmude haiti dormah ja wet. How anutevi balof afatulej kodudbok vuzlocco ako rikci vihopuwel ak mielazo ejib noato ni opepimid riuz nezalwa pobo.",
+    "bio": "Zurbejo evo admenim turinofo hu fumrufo pefzi vekardo ij rihnu gej reihe olo jewigeg arawu perius. Hiwhi pokpeg afo nafa olfi aw ri oba gecza ku wosernuw hil amraor lu etho. Mid joz rumdeij num sivfin ipipo ul bes we udouwaabe oze iguodan."
+  },
+  "apiKey": "d3d5d1ed3c1dc489738cc2ee11a332d5d572976672c6847ecd79f8a3a571ed15",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
