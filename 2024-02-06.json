@@ -1,0 +1,26 @@
+{
+  "name": "Erik Edwards",
+  "age": 25,
+  "address": {
+    "street": "Gejjab Square",
+    "city": "Vediosa",
+    "state": "TN",
+    "zip": "84120"
+  },
+  "contact": {
+    "phone": "(751) 602-7240",
+    "servicePhone": "800888129"
+  },
+  "birthday": "1980-02-05T09:04:25.382Z",
+  "ip": "63.210.125.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Zu gaze zukgemrez ojugathif ni wizi omirej pu kam nofol ber kalronwiv gehi dejfa sed. Gup gi mut ge ov fic har fe magek lavdoli todagsi usuharzi. Mozire ho counikuj fik puwu zuvso ceeffa vo lapaz forewi tordepi dicucso zuaggug hu tadi.",
+    "bio": "Mu siklej opseh ceceje tudsithu ruplatud ilsadjo ju mage ajsod dafep fiji igicok. Gor cudehpa uhelodo sito ajeduhuw tose teuswoz su avujijuc huj akdawon cozwi ineadewa degijce ta pegine ceagezi. Muckowo santeogu jajogib litocad erolivo wowku paminkab luwegze emarizuhi mur lotke bemen ge sidfokus sajsu. Jezpub pewijdas sugil koun idice il muic bebho suavgac lervordeb gueti gec jibjoz tecde wod ca zaclapdan itgojguk."
+  },
+  "apiKey": "4b087e168c8e2b74e2736f4cda9528f49c9ae3a518375a8d22354f7a21cfc21f",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
