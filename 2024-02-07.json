@@ -1,0 +1,26 @@
+{
+  "name": "Isabella Curtis",
+  "age": 30,
+  "address": {
+    "street": "Fubu Road",
+    "city": "Tawadfa",
+    "state": "AZ",
+    "zip": "05328"
+  },
+  "contact": {
+    "phone": "(938) 649-6051",
+    "servicePhone": "800771189"
+  },
+  "birthday": "1997-10-17T02:30:05.480Z",
+  "ip": "130.189.164.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Nu tigseb zimise kizewa be ahpu ravicsic bocgi me wipabho hesnuwoh cow rockuj jon. Jowan mivinesa lot zudahkat efut ta vej vu nefhadza nafvobbov meta voruh. Ga nejutimu ok tos teaz mig lu sejnuh fiwti zoorupip nezrawup orinahaci mahmeh pomodev luasgiv sek woub. Fowlepo kehkipeki lizifro fefujul remowvi gi igu dumazuag juti laeka jasulome goecdis ciodo. Cadobafa kerva huzakin vecpeb me tepic ahegikpa liz giluj bu hab vohe epdir ij eboozuhis.",
+    "bio": "Fawubbo roh sa zus ihepes niwof rubid pan oz ij sadfe navhinoh tut vit. Pijehoh jogawoje fihojib zogzi wowej naktik votan sizoriwa dikohur zubnemoz upohu fiwvo. Ilo subpakpib afbuak lehakwej sa cewuhjav ev mur wavcekes fi pukbu tufujke. Sa ubafedi azlos bu davetwa suk jem vo bepefi fig fo vukceffe matubidi roifza tombos."
+  },
+  "apiKey": "2b5d4c62eac1501cff667de42809fc4c8d32aacf881b66cc15551777f4a8c950",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
