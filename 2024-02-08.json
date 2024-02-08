@@ -1,0 +1,26 @@
+{
+  "name": "Elizabeth Cortez",
+  "age": 42,
+  "address": {
+    "street": "Kobwok Avenue",
+    "city": "Icofuuki",
+    "state": "IL",
+    "zip": "39441"
+  },
+  "contact": {
+    "phone": "(640) 909-9848",
+    "servicePhone": "800566957"
+  },
+  "birthday": "2004-12-21T11:05:03.726Z",
+  "ip": "246.182.37.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Capoeg urino hog ijofazad po hoprob gahdow luk vunac lasuzoz safos hezafuw fit. Tinjur os ungegmo jutjukel wuoceegu luf sulilo gipohezi jek ju kaf sehurupi sitde seh fos bakojgu. Ho netlilso fonrub magasika mubecpej feh mu agwegal hiog igvi lifzed lukjoko hitiz ma.",
+    "bio": "Sisjis guvme siro jugif kuahbu romjuh veowu uvi sagobgeh cicikis rok vi uzi ka akuhojar. Helpoal gejfurper lilmaab ibi ucake depti oseiwe fu dekhadit haabsud tet pehe ak kozas howeriw omosebdac ramzi. Peveh faz favwa lohsaf dazopo en levne wipe sit pur ko jat."
+  },
+  "apiKey": "d8af0797a6f6d6aea0e003b1100805dbb346109f7e1b84fc66911e6a4759b781",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
