@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Taylor",
+  "age": 51,
+  "address": {
+    "street": "Suvedu Plaza",
+    "city": "Liacemo",
+    "state": "ND",
+    "zip": "42412"
+  },
+  "contact": {
+    "phone": "(206) 403-8637",
+    "servicePhone": "800522774"
+  },
+  "birthday": "1974-10-25T10:33:38.684Z",
+  "ip": "220.129.171.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Mesacweg cihejgoc keguwe nom tevpovij ommop pezvub ahzi kulap ro celho weed gimwo zuhohugi ibasi mo vutod. Ler piivuah uki sepup heroupa mupzonij wuci evusok gahupza tumutkic diib puka nib ahsiftu. Rav zu ronha cot falwe keju fav efbucrel riliz pacfuzut zamreter pob wut soc me ehivonvir ewrozat cu. Dawucu haiji gucej ul iskatfa cafce narlur wol haeri eso zi da zemace gib penobu duvudsot. Cemtuac vivjedok vit jat senik ep deoz kimcuiki vatizvam cevuvhuj za ge raus kemdizef ikepe lod.",
+    "bio": "Lu za co uf ruz joaza dope biwib seced oku kup dul ababa. Lubni awuecve fo rojuvkiv miuvehu wakze olcif ugo fepagi koz uriraso ticirmo mipewa kak. Jalaf fiherler kupkecjis zo igmarap sucgobjih jalewu nobco ipmewi ubkolel beeju ju ugetoj zo. Lumke vus oh lajuc si don asomog doajeka leursu zel hipurah ep ahelep inojuam gam jemne papeb ligoltu. Mofo age ru cibifre tivbil emiliggub makzan pozsu cuosipe couwu dode be ejmazvok abna. Cugug ci sem ijiicosu ge ke ovva abwehok capan sovhusid kidzievi neec lifa vazto. Kim upferiw okoso jal cev ebetuto opekadag duemo omufafa puhmakrip nouve ta amli cubuksan bepje eglac tinjem nenavatu."
+  },
+  "apiKey": "81c0c2bc10e100c9d742560d09d53b3bad54befd0a4e42cf95961aa1c6594ec9",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
