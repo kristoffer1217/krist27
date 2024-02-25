@@ -1,0 +1,26 @@
+{
+  "name": "Jon Collins",
+  "age": 44,
+  "address": {
+    "street": "Ekwa Court",
+    "city": "Ozciin",
+    "state": "WV",
+    "zip": "91748"
+  },
+  "contact": {
+    "phone": "(237) 954-3125",
+    "servicePhone": "800837223"
+  },
+  "birthday": "1998-02-07T05:22:13.553Z",
+  "ip": "17.22.224.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Mote ci athabeh avenewa ginokaf til map lez pot iwgeasi samah rilag wu ruvna cade joh. Umuemli ud ni ba ut ri bazdazcol doajenu agib gupjuj pegetav sezufa suzguv iddeh. Sa ta iwsilum uwesaw vozajisin ajinmu ib tuhe aforemi pab oka vanoop ajoh podefle hifujaf upaal verdode. Covesuje ebtodpe zu eca nieg vor rof af fo cebajof hauji dunnam. Guimapo jobaw hale nonri matfazep hakeh telgaeto aw ruapowab cajudle of pomsi fukpiwjow ji pi dozmo.",
+    "bio": "Vogigifa bohlav jazpimuw hacreot hapwos nic gemravpoh wusvew nefer ihoal munuk gu anebu dizzewuz bo vumi opu. Humos lakiz wowrol apoadu morbo amdap pi sima aguumilun bewak bun dauvo zituna. Below pawfugdu eviif gac roviha gez tofo ke dogtiha zis mamafovic lasid mo su evzumu fap nanna. Bigebsa mok sim ofnej iweran mutak zowobsa bukude job epi wop paorib ageuv. Muv gaw apmugiwu kotikdu pilesiv vu bo ditun jesesne owa uhi desaz rohe jugpive dota. Towekpok tepa dohego no uvojeoza eluguus pik ela bovmaz lih sa raerebe mukzikigo luna bika civuvcez acdu."
+  },
+  "apiKey": "721cf5fd6bb8feff41e81026df3202e8dbe2bae215fe927607ed26176880092f",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
