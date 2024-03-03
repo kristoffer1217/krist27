@@ -1,0 +1,26 @@
+{
+  "name": "Glen Berry",
+  "age": 34,
+  "address": {
+    "street": "Ucone Drive",
+    "city": "Hemodaces",
+    "state": "ID",
+    "zip": "10950"
+  },
+  "contact": {
+    "phone": "(340) 460-9819",
+    "servicePhone": "800535134"
+  },
+  "birthday": "2000-07-04T03:50:31.275Z",
+  "ip": "62.77.59.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Jocohouj fabmi lumu ofiat paziur ef uc wusow fowoso te mut vo. Uduvi lumuni uhudojza raralu wano rezpu bovhuka idugojog juhoibu dubepil et wuzugofa ubaloshu oku. Ogu giomima nokoze otoluk fego guw zol efeivfum noletfi rif sihsupa bovzipom.",
+    "bio": "Dun sa pi culham su lolid ju geswetsu nozaki zujvom hasa goib hudit piekakod jep. Gu pitfut sow cuzpuana tosdiphi tab benberow odu ewufma kip ufumum fuz. Usobun ononapa ovaimusul ifusic ub libojuj tado hipvafe moc zoine al cossi hec dan. Fu rezhip dovifal salvahhi rorenped ocanefov get zisibpuj owisisud abumer ca pa esfok."
+  },
+  "apiKey": "662545bd9be5f24beb1fa1fade13d75901339bd745367689ff51f35d9f771121",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
