@@ -1,0 +1,26 @@
+{
+  "name": "James May",
+  "age": 40,
+  "address": {
+    "street": "Vessom Ridge",
+    "city": "Kisocem",
+    "state": "SD",
+    "zip": "61557"
+  },
+  "contact": {
+    "phone": "(861) 729-1687",
+    "servicePhone": "800572237"
+  },
+  "birthday": "1975-12-03T08:30:49.332Z",
+  "ip": "252.57.217.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Dep jafga kagkic was ivagij tuc ara himva guz kolpojce hivitilo cum ce jove. Evjaek ija kebe ub vu nec bop huk zel satupmam favibic witti. Jig wuk esizaki ru si eswihi vuw dotob ijadti ni pejahko ovo nevlusoz atibemez.",
+    "bio": "Kavkokiji wu laka puwcihiz nawasuhi vop gemhan fo hupgomfip ok ref railabi. Pugel nepcodki vem vufviw ne hosvico av iv upuom sakune no cej jacejlem le bituwbe. Ig jonsepzeh tivu bawje paj dor eduhuvos nofenhi gektuc linulu hup ke nutitiji."
+  },
+  "apiKey": "c28fc65b54f874389613d085a57e57ba1c1aa756f6a6872554141d3182240715",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
