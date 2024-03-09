@@ -1,0 +1,26 @@
+{
+  "name": "Janie Murphy",
+  "age": 29,
+  "address": {
+    "street": "Lassu Point",
+    "city": "Virjepo",
+    "state": "HI",
+    "zip": "11177"
+  },
+  "contact": {
+    "phone": "(448) 487-7684",
+    "servicePhone": "800747245"
+  },
+  "birthday": "1978-01-05T18:30:05.823Z",
+  "ip": "148.112.174.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Luavo tomuzjum lewbe putad uj bigaka jidewa gebtenvem joshu becu efibozap ir oli jevaded biv. Kicuf bajvit lasgi ezu guroiwi aka vi deju pase ihwahocu utife okotozfuh asotumipi. Oba kaz cupi humaeg sevo vug fe bitad hijal pes mifavvaj wic sul.",
+    "bio": "Mih rog ohokow lasbic zovon fodbeig bi wi jisuhgac ecujat zowzu fadkizac adeiw hoguer. Edi tesoju iref seizo guezouka nusizaho ikuceoc buvmimep pefo ta sepcab kalofe. Oz fagdamezi va sef jozwupov dig do ustab jomjihwib ceuldo nozma zej zus nu cikoije."
+  },
+  "apiKey": "7cb6ec6e2a557d29d91b655cc0fa00f65fb9c64aa79b1526caf2fbb085984a01",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
