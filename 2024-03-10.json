@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Evans",
+  "age": 48,
+  "address": {
+    "street": "Edgi Way",
+    "city": "Jutunhe",
+    "state": "LA",
+    "zip": "82328"
+  },
+  "contact": {
+    "phone": "(962) 487-7481",
+    "servicePhone": "800218477"
+  },
+  "birthday": "1982-02-09T12:00:11.251Z",
+  "ip": "205.14.176.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Ru du mis hapake sabon uj duegale adaegkiv le diphivi tehozmat upeag. Obildos awiifeunu vo caeboaki ra moutu ozu siipoize ri sibel diek fisebu kuzcu. Lan bizdolir ediwi soona nola nan lumki uvirarnin tomki cidruci meijlor to lol tuvtemsi zilufi. Muomo coh hiwanmud beruve fijip as pav furni gus naljov ni wekducgu wuade regeg cudtal zecse hos imdoh.",
+    "bio": "Idahuwev lar barvan kezitma gatve da jim ban mu fultef biamodu unu kiz reliij rughoz iz riti je. Paedhuw ci buzajolaw ujiwup va opa gu raira atojifot tojaje dujihioji zap reg olkas uka. Vokillu gocjojji fud vimamnos ekidimen kuwamac mujso hajizow aseup so ol puzes mavje kahiliba. Safho cuso zi nopcavo he ir re izo wun puhnuf lu minwoot metfurar dalnaeg bumom upevod nufoeji. Ha ar meh ziine hokil facfetco sup kil gaddu adalorlud nulcuw jog."
+  },
+  "apiKey": "3da65ed1d902e28636171de50fa9933931210c171377abbc9e22dc6cec57aaad",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
