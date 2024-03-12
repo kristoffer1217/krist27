@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Chandler",
+  "age": 56,
+  "address": {
+    "street": "Tobdiw Street",
+    "city": "Goleiho",
+    "state": "AL",
+    "zip": "93019"
+  },
+  "contact": {
+    "phone": "(520) 653-3711",
+    "servicePhone": "800485317"
+  },
+  "birthday": "1998-03-25T12:52:50.943Z",
+  "ip": "84.195.135.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Hudpih get ha pu de suh ilfithap suriblo ro pi ba jeszu. Lucivora wu cibomu gol ri iwofeih zoda rod oje kofukvu ciulu iju jesudza wegcuva dukpa gagu. Muk koigilu lun toluw fo mo lo pahep ipos kojfad fepahana itavus. Forju sab vi akfoco tavomop kolunal loc ra wase za ukteku olula zos mewazbek pud afeze.",
+    "bio": "Lej bajhajjar zuibu sigdiwad cizihauza kik suut jiitovim cahded ven osohager nate sidnubag vebzoh ha. Zap ruvub witoini digej cuvzeasu wu pokkij udjoba at owbettev di cerme bo ekud fubu. Di ena wuludam suivieh uki ereoritod po anjeot abi bepeluuf ihew amu. Siji gewo te pal vulezgi met nuj pow fihcokim camkanatu kone zozdo vabkuki kehul zoz miki joh. Dahmiztep sovdok haftov fokes zacmuggaf ci lukufman anigiva ozmaw ak wimhufzam po rahjedup vafcaplil. Ud rih se ofre oz cogcujfak fonegca rad lainsid haesef wazace gaon benam nuusatu ru escera iseci ude."
+  },
+  "apiKey": "c9ddbdeb58563602fa6219d3db065b9b79fdaf78ad080e208dadf4525bb16488",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
