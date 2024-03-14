@@ -1,0 +1,26 @@
+{
+  "name": "Vincent Fields",
+  "age": 28,
+  "address": {
+    "street": "Bezu Circle",
+    "city": "Dacabuze",
+    "state": "MT",
+    "zip": "92121"
+  },
+  "contact": {
+    "phone": "(885) 396-2942",
+    "servicePhone": "800933865"
+  },
+  "birthday": "2000-07-29T01:37:02.988Z",
+  "ip": "236.3.45.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Lu fotrug vibbek coj ped hilvovuc huwmon ze sumra cuep fejorlak ho eko fokpuf zotogol ile papsaksi. Kaw zaj eno du fotmeib ahazizhub wewfokil sanaka up barzim wazucub pocmomeh. Misukwej ibuzit punnavcev ilvu kezmov hadidpas vuwonra nit lo bun felobet akajorzu raw kuc kiize ararep.",
+    "bio": "Ula ko tuven mojga ri fobcibod vawkic gil gioduaje jejordoj tur isicezzin ile ifmebet zo. Jagwa seaj azzez ja soca je neozwis wose sa uhmoec wap rufe. Bot sovutok teno ki ujatci henejho miplufza vo idicikgih udgaiv utuigfi heonmi fog ekcezse zag uf. Saj vav heka dajak zezo moadoij olako nep ma wuvu veluh tuvre ufsupso id zeeramuj lim adehodej. Ogga fi luibip topedti gene ehu piuw bicuga hotieda dad callol lebob izku pivtu. Ham lasicuci lobojut edi pog uca afovuh kunemni ic soc gi gefu juvojit hol atacetufe jor. Sutnuc foz jaltuluwe ik dazbutal pesotewa uf kum loge wemew juf pili hon."
+  },
+  "apiKey": "4e36cd0c0981472789710ce1b8da78f3a8de22eefd6d9451e2b0b1cd21ec610b",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
