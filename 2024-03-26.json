@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Hernandez",
+  "age": 62,
+  "address": {
+    "street": "Nihed Place",
+    "city": "Wavinifor",
+    "state": "CT",
+    "zip": "25615"
+  },
+  "contact": {
+    "phone": "(909) 549-1704",
+    "servicePhone": "800558537"
+  },
+  "birthday": "1988-09-07T07:07:16.783Z",
+  "ip": "111.56.164.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Ril gebeg sibeh lete kuohajid wapome ube rolilo emadagu runudi eh jucul fezhim rok woji ot wamsufreh koofu. Dus piriz towiz loluzawe cocmoiti go hikuwe gur nidoaj poz modaziwe cuzjak cid li getef. Ufo aljo wuukbil atucan te waugne ru fet vuw ab tonaju puwhihig ulicu gorhuleg cuz tuz aw mopehi. Goeme vod zewda atlep ze leftuata ga piefi zinvoiv kacme bi og sup pifowe mibzu.",
+    "bio": "Tag redvud osfumub zevuaga ma jepi satfi rij ejvabah vosuwba iziekbu radov hucav pimohas cu cumjiw egi bev. Rujvo ibcad ikaedar matjoes pe fiscur guhpi ala nu ra purfa cownojbo ki curlel vuziv ju. Uw durwe porawob ule lohadlur ta ja bij nemfagka mitnere gu mungivis juh."
+  },
+  "apiKey": "fb86ce9049c499d329f081ee15672647c200a47766104a8618c7987400594b21",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
