@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Bass",
+  "age": 60,
+  "address": {
+    "street": "Gefe Path",
+    "city": "Colcimi",
+    "state": "WY",
+    "zip": "20093"
+  },
+  "contact": {
+    "phone": "(576) 997-6395",
+    "servicePhone": "800775829"
+  },
+  "birthday": "1959-10-22T18:32:55.973Z",
+  "ip": "149.60.40.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Egukifu tobockun ovo wam nu jeh ma kozperop ovtazi goug ponivdaw figwi tes mihonu vicbekzu focri durbiw. Zaocni bakjuprul we wini rufkuj oshec zunute la zockos hinaptu bokwace ra noebjuc paz zoskud odeve lize ta. Uvakek rolfo mu cuh juz muakifa lecmewer diedokoj zukujzum et gehig huv senopzar vo. Ul pitavor femnad et ogimuipe efedakal pa luzupo leesa dipozpul ojemu vig. Vuv tumu egletaca paewoeto je ko galsaz urcowke juwibti fu boj zenetlu.",
+    "bio": "Be isalepla inahicu zib ke rum iwerazjur zuawpot kop acilag wa pissedze darbe baornoc fohvokah gi boccic. Onu siwo ap je desal vopjuc latofe esujihki toir mocujcus vo keher. Wioro ucu ed nicaij ezavakuk am hocmovput hu nalhici oztupfek padebet ibsis jezbaral dazca. Muj muwso mobnaste ut hegvabfef cus jooz ocgo pizev moke fadsevov zuhuiri wop ki dezfe uji uca enonucib. Ole vagutrez loefo hahro ja dofpe gil roho iju painodo fifit unguffi larajom jowedpiw ruroze tik di."
+  },
+  "apiKey": "9e0295d1d16ecd3949dba3fc64a3c80cef186d8831fc0c29fdb029506b908e2e",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
