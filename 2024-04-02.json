@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Nichols",
+  "age": 50,
+  "address": {
+    "street": "Duid Key",
+    "city": "Sondeaz",
+    "state": "ID",
+    "zip": "54669"
+  },
+  "contact": {
+    "phone": "(532) 389-7931",
+    "servicePhone": "800729675"
+  },
+  "birthday": "1960-03-02T04:37:42.821Z",
+  "ip": "104.143.79.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Ulezajli savhom hirec nan ka igour cewje pi laclotwup keja pom velihti juvvuwe dokumzi. Izco jutadi rajzojis lefre podipu naane mob cov wo ez sib murbeli jafwen vac tupag vanlezeb. Ci utunab nefzina lo kugiha onona nam iboehjo ni pe aji gowdaccu ele.",
+    "bio": "Mez uj hu reh zopatlu fufu kektarsu bacad moro ikasagu pevi cal cu om. Bowle kupe vieb rirwarfo minap dircepzuf musezkuj ezveteb uba ipa mogam jeczu ebidesu ca taufihe wuwen guwzabwoz. Pul ra ego owa agkegre berpiwe ficohuh relig onualo ibukaka lo fa veki gi."
+  },
+  "apiKey": "ab7e7598ab62c9e4378a3a7d978a468740c7a3d18113f0d92d9811232f95791c",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
